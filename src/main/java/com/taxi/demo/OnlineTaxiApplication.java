@@ -8,6 +8,7 @@ public class OnlineTaxiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OnlineTaxiApplication.class, args);
+		//online taxi booking application
 	}
 
 }
